@@ -1,0 +1,14 @@
+@startuml
+left to right direction
+
+class buried{}
+class payment{}
+class grave{}
+class employee{}
+class costumer{}
+
+employee"1"--"*"grave
+buried"*"--"1"grave
+grave"1"--"1"payment
+(grave, payment) .. costumer
+@enduml
