@@ -1,4 +1,9 @@
-= Index page of Sebastian Hager
+= Friedhofverwaltung von Sebastian Hager
 ifndef::imagesdir[:imagesdir: images]
 
-image::img.png[]
+
+== Class Diagramm
+[plantuml, png]
+----
+include::plantuml/cld-cemetery.puml[]
+----
