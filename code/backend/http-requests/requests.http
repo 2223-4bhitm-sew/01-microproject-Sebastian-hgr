@@ -1,0 +1,27 @@
+GET http://localhost:8080/api/customer
+
+###
+
+POST http://localhost:8080/api/customer
+Content-Type: application/json
+
+{
+  "firstName": "Susi",
+  "lastName": "Mayr",
+  "yearOfBirth": "1998-08-01",
+  "yearOfFuneral": "2021-07-02"
+}
+
+###
+
+DELETE http://localhost:8080/api/customer
+Content-Type: application/json
+
+{
+  "firstName": "Susi",
+  "lastName": "Mayr",
+  "yearOfBirth": "1998-08-01",
+  "yearOfFuneral": "2021-07-02"
+}
+
+###
