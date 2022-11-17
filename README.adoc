@@ -1,0 +1,16 @@
+= Friedhofverwaltung
+
+== Beschreibung
+
+* Klasse: 4bhitm, 2022/23
+* Schüler: Sebastian Hager
+
+Ein Programm um Informationen der Totenliste eines Friedhofes einzusehen.
+
+== Class Diagramm
+
+image::https://www.plantuml.com/plantuml/png/NOn12W8n34NtEKMM2iwSOV02dg6s4GffKz9a9TxTZaW7PXDuZxo_TGjgNXXC6fhWKyoaOCfAqR9KWCYXTqpKncEXQk_FNpMM0wBtqP5EOLHTwV6wk-R0GyCnWSlogs6S7MODbztS9bznNV4q1HlLv8M_[]
+
+== Änderungen
+
+* 2022-11-14 Crud-Funktionen erstellt im Branch https://github.com/2223-4bhitm-sew/01-microproject-Sebastian-hgr/tree/feature/jpa[featrue/jpa]
