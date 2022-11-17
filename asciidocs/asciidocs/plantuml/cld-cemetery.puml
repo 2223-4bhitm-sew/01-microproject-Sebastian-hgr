@@ -1,0 +1,13 @@
+@startuml
+top to bottom direction
+
+class Abteilung{}
+class Grabstelle{}
+class Kunde{}
+class Grabnutzungsrecht{}
+
+Abteilung -- Grabstelle
+Grabstelle -- Kunde
+(Grabstelle, Kunde) ..  Grabnutzungsrecht
+
+@enduml
